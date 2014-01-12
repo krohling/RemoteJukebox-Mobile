@@ -1,0 +1,6 @@
+Parent = 66, 66, 320, 336, , 22, 22, 276, 292, C
+CreatePlaylistForm = 88, 88, 342, 358, Z, 44, 44, 298, 314, C
+CloseConfirm = 44, 44, 298, 314, , 22, 22, 276, 292, C
+DisableX = 0, 0, 0, 0, C
+ChangeLocalIPScreen = 44, 44, 298, 314, , 66, 66, 320, 336, C
+SplashScreen = 44, 44, 298, 314, , 22, 22, 276, 292, C

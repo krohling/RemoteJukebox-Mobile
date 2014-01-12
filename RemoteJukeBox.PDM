@@ -1,0 +1,400 @@
+[Root]
+Most Recent Package=RemoteJukeBox
+
+
+[Package|Remote JukeBox|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\WINDOWS\Desktop\Assemble
+
+[Package|Remote JukeBox|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Remote JukeBox|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Remote JukeBox|Files Found]
+
+[Package|Remote JukeBox|Files Released]
+
+[Package|Remote JukeBox|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\msdxm.ocx=
+
+[Package|Remote JukeBox|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=
+
+[Package|Remote JukeBox|Files Added]
+c:\windows\desktop\vb files\remote jukebox\dat\add.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\animation0.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\animation1.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\animation2.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\animation3.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\back.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\background.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\blockphone.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\forward.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\highlightedback.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\highlightedforward.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\highlightedplay.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\highlightedstop.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\open.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\phone.ico=
+c:\windows\desktop\vb files\remote jukebox\dat\phone1.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\phone3.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\phone2.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\phone4.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\play.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\remove.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\selectedadd.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\selectedremove.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\splash.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\stop.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\unblockphone.bmp=
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\PlayList\Blank.rjk=
+
+[Package|Remote JukeBox|Files Removed]
+
+[Package|Remote JukeBox|Files In Project]
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\RemoteJukeBox.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM\msdxm.ocx=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\add.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation0.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation1.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation2.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation3.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\back.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\background.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\blockphone.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\forward.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedback.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedforward.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedplay.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedstop.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\open.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone.ICO=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone1.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone3.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone2.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone4.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\play.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\remove.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedadd.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedremove.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Splash.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\stop.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\unblockphone.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\PlayList\Blank.rjk=Yes
+
+[Package|Remote JukeBox|Configure Registry Files]
+Applicable=No
+
+[Package|Remote JukeBox|Configure Remote Servers]
+Applicable=No
+
+[Package|Remote JukeBox|Install Locations]
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\RemoteJukeBox.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\add.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation0.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation1.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation2.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation3.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\back.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\background.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\blockphone.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\forward.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedback.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedforward.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedplay.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedstop.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\open.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone.ICO=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone1.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone3.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone2.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone4.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\play.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\remove.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedadd.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedremove.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Splash.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\stop.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\unblockphone.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\PlayList\Blank.rjk=$(AppPath)\PlayList
+
+[Package|Remote JukeBox|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\RemoteJukeBox.exe=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\add.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation0.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation1.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation2.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation3.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\back.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\background.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\blockphone.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\forward.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedback.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedforward.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedplay.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedstop.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\open.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone.ICO=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone1.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone3.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone2.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone4.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\play.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\remove.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedadd.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedremove.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Splash.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\stop.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\unblockphone.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\PlayList\Blank.rjk=No
+
+[Package|Remote JukeBox|Distribution]
+Type=single
+Size=
+Title=Remote JukeBox
+
+[Package|Remote JukeBox|Package]
+PackageFolder=C:\WINDOWS\Desktop\Assemble
+ProjectFolder=C:\WINDOWS\Desktop\VB files\Remote Jukebox
+ServerSideCab=
+File1=C:\WINDOWS\Desktop\Assemble\setup.exe
+File2=C:\WINDOWS\Desktop\Assemble\Setup.Lst
+File3=C:\WINDOWS\Desktop\Assemble\RemoteJukeBox.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Remote JukeBox|IconGroups]
+Group0=Remote JukeBox
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Remote JukeBox|Remote JukeBox]
+Icon1=RemoteJukeBox.exe
+Title1=Remote JukeBox
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|RemoteJukeBox|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\WINDOWS\Desktop\Assemble
+
+[Package|RemoteJukeBox|Configure DAO ISAMs]
+Applicable=No
+
+[Package|RemoteJukeBox|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|RemoteJukeBox|Files Found]
+
+[Package|RemoteJukeBox|Files Released]
+
+[Package|RemoteJukeBox|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\msdxm.ocx=
+
+[Package|RemoteJukeBox|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=
+
+[Package|RemoteJukeBox|Files Added]
+c:\windows\desktop\vb files\remote jukebox\dat\animation0.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\add.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\animation1.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\animation2.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\animation3.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\back.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\blockphone.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\forward.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\highlightedback.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\highlightedforward.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\highlightedplay.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\highlightedstop.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\phone.ico=
+c:\windows\desktop\vb files\remote jukebox\dat\phone1.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\phone2.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\phone3.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\phone4.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\play.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\texture.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\remove.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\selectedadd.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\selectedremove.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\splash.bmp=
+c:\windows\desktop\vb files\remote jukebox\dat\stop.bmp=
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\PlayList\Blank.rjk=
+
+[Package|RemoteJukeBox|Files Removed]
+
+[Package|RemoteJukeBox|Files In Project]
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\RemoteJukeBox.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM\msdxm.ocx=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation0.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\add.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation1.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation2.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation3.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\back.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\blockphone.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\forward.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedback.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedforward.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedplay.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedstop.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone.ICO=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone1.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone2.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone3.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone4.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\play.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\texture.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\remove.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedadd.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedremove.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Splash.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\stop.bmp=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\PlayList\Blank.rjk=Yes
+
+[Package|RemoteJukeBox|Configure Registry Files]
+Applicable=No
+
+[Package|RemoteJukeBox|Configure Remote Servers]
+Applicable=No
+
+[Package|RemoteJukeBox|Install Locations]
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\RemoteJukeBox.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation0.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\add.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation1.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation2.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation3.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\back.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\blockphone.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\forward.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedback.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedforward.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedplay.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedstop.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone.ICO=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone1.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone2.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone3.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone4.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\play.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\texture.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\remove.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedadd.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedremove.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Splash.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\stop.bmp=$(AppPath)\DAT
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\PlayList\Blank.rjk=$(AppPath)\PlayList
+
+[Package|RemoteJukeBox|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\RemoteJukeBox.exe=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation0.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\add.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation1.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation2.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\animation3.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\back.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\blockphone.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\forward.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedback.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedforward.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedplay.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\highlightedstop.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone.ICO=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone1.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone2.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone3.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Phone4.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\play.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\texture.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\remove.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedadd.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\selectedremove.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\Splash.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\DAT\stop.bmp=No
+C:\WINDOWS\Desktop\VB files\Remote Jukebox\PlayList\Blank.rjk=No
+
+[Package|RemoteJukeBox|Distribution]
+Type=single
+Size=
+Title=Remote JukeBox
+
+[Package|RemoteJukeBox|Package]
+PackageFolder=C:\WINDOWS\Desktop\Assemble
+ProjectFolder=C:\WINDOWS\Desktop\VB files\Remote Jukebox
+ServerSideCab=
+File1=C:\WINDOWS\Desktop\Assemble\setup.exe
+File2=C:\WINDOWS\Desktop\Assemble\Setup.Lst
+File3=C:\WINDOWS\Desktop\Assemble\RemoteJukeBox.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|RemoteJukeBox|IconGroups]
+Group0=Remote JukeBox
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|RemoteJukeBox|Remote JukeBox]
+Icon1=RemoteJukeBox.exe
+Title1=Remote JukeBox
+StartIn1=$(AppPath)
+Key1=Icon1
